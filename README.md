@@ -2,6 +2,10 @@
 
 Project ini digunakan untuk praktek mata kuliah PBO.
 
+Nama : Edy Pradana Sebayang
+
+NPM : 22015804345
+
 ## Instalasi
 
 - import file `db.sql` ke mariadb,
